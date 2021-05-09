@@ -9,3 +9,8 @@ Team A25 Members:
 Duck Store is a personal e-commerce store created by our group, here is a preview! 
 
 ![duckstore](https://user-images.githubusercontent.com/55392495/117564084-6345b480-b0d4-11eb-8079-5b2ae710d116.gif)
+
+Using phone? We also support multiple device compatibility!
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/55392495/117571649-a7977b80-b0f9-11eb-8b88-d4b6a82ffdac.gif)
+
